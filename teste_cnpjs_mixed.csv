@@ -1,0 +1,6 @@
+cnpj,descricao
+07526557000116,CNPJ Google Brasil - 14 dígitos válido
+3878957000123,CNPJ com 13 dígitos - será pulado
+11222333000181,CNPJ exemplo - 14 dígitos válido
+123456,CNPJ inválido - 6 dígitos - será pulado
+33000167000101,CNPJ Petrobras - 14 dígitos válido
